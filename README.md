@@ -22,3 +22,5 @@ We used the 2017 and 2014 datasets, which can be downloaded from the website
   3. Input output from YOLO model as text string to BLIP, test again.
   4. Experiment with various text string formats, testing on a wide variety of images.
 
+
+*Reference project.jpnyb for Part 1 steps 1-6, YOLOTraining.jpnyb for Part 1 steps 7-10, and Part 2.
